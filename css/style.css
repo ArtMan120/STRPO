@@ -49,3 +49,69 @@ div{
     font-weight: 700;
     width: 31px;
 }
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.ftn {
+    font-weight: bold;
+    font-size: 64px;
+    color: #160E4E;
+    font-family: Roboto;
+}
+
+.ftnt {
+    font-weight: bold;
+    font-size: 30px;
+    color: #160E4E;
+    margin-right: 55px;
+    text-align: center;
+    font-family: Roboto;
+}
+
+.ftntf {
+    font-size: 20px;
+    color: #303030;
+    margin-right: 100px;
+    text-align: center;
+    font-family: Roboto;
+}
+
+.blokk {
+    padding: 5px;
+    float: left;
+    width: 550px;
+    margin-right: 55px;
+}
+
+.blook {
+    padding: 5px;
+    float: left;
+    width: 550px;
+    margin-right: 55px;
+}
+
+.bllok {
+    padding: 5px;
+    float: right;
+    width: 550px;
+    margin-right: 30px;
+}
+
+.bok {
+    padding: 5px;
+    float: right;
+    width: 550px;
+    margin-right: 30px;
+}
+.im {
+    margin-right: 55px;
+    text-align: center;
+}
+.ftntfz {
+    font-size: 20px;
+    color: #303030;
+    margin-right: 90px;
+    text-align: center;
+    font-family: Roboto;
+}
+
+
