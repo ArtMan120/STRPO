@@ -1,0 +1,17 @@
+.header_link{
+    margin-right: 15px;
+}
+
+.header_link.active {
+    margin-right: 15px; 
+    background-color: #F6BC00; 
+    border-radius: 20px; 
+    padding: 8px 23px; 
+    color: white;
+}
+
+header {
+    display: flex; 
+    margin-top: 26px; 
+    justify-content: space-around;
+}
